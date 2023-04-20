@@ -1,0 +1,4 @@
+package cancellation
+
+class Cancellation {
+}
